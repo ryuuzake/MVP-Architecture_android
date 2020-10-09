@@ -13,7 +13,6 @@ public class ProfileActivity extends BaseFragmentHolderActivity {
 
         btnBack.setVisibility(View.VISIBLE);
         btnOptionMenu.setVisibility(View.GONE);
-//        ivIcon.setImageResource(R.drawable.....);
         ivIcon.setVisibility(View.VISIBLE);
 
         profileFragment = new ProfileFragment();

@@ -1,4 +1,4 @@
-package com.shiroecreative.mvparchitecture.module;
+package com.shiroecreative.mvparchitecture;
 
 public class Constants {
 

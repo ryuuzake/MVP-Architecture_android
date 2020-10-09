@@ -3,9 +3,9 @@ package com.shiroecreative.mvparchitecture.module.login;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import static com.shiroecreative.mvparchitecture.module.Constants.EMAIL_KEY;
-import static com.shiroecreative.mvparchitecture.module.Constants.PASSWORD_KEY;
-import static com.shiroecreative.mvparchitecture.module.Constants.PREFERENCE_KEY;
+import static com.shiroecreative.mvparchitecture.Constants.EMAIL_KEY;
+import static com.shiroecreative.mvparchitecture.Constants.PASSWORD_KEY;
+import static com.shiroecreative.mvparchitecture.Constants.PREFERENCE_KEY;
 
 public class LoginPresenter implements LoginContract.Presenter {
 
